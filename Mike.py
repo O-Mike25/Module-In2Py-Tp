@@ -44,7 +44,7 @@ d.keys()
 d.values()
 
 #d) Affichage de la liste des paires cle/valeur du dictionnaire
-
+print("nom",d['nom'],"  ", "age",d['age'])
 
 #e) Ecriture de la phrase "Jacques Dupuis a 30 ans"
 print(d['prenom'],d['nom'],"a",d['age'],"ans")
